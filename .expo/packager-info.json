@@ -1,0 +1,9 @@
+{
+  "webpackServerPort": 19006,
+  "expoServerPort": 19000,
+  "devToolsPort": 19002,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://8d-7k8.anikdey.chatapp.exp.direct",
+  "packagerNgrokUrl": "https://8d-7k8.anikdey.chatapp.exp.direct",
+  "ngrokPid": 22812
+}
